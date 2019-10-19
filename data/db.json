@@ -1,0 +1,125 @@
+{
+  "people": [
+    {
+      "id": "aa45e212-2faa-4011-9f7e-19e18eb56f01",
+      "firstName": "Meron",
+      "lastName": "Sibani",
+      "team": "1df42811-3cc4-43e2-ba58-7ff9bdf99d2d",
+      "birthday": "10/10/2020",
+      "likes": "dogs"
+    },
+    {
+      "id": "63957f7a-fa5a-4108-a92f-dad4f5a750bb",
+      "firstName": "Sonia",
+      "lastName": "Kandah",
+      "team": "cefeb171-adba-4604-9e8c-a00aefbb9053",
+      "birthday": "8/02/2020",
+      "likes": "cat"
+    },
+    {
+      "id": "d8c9610c-d19f-4ea6-b975-2c0db257e899",
+      "firstName": "Erin",
+      "lastName": "Trainor",
+      "team": "1df42811-3cc4-43e2-ba58-7ff9bdf99d2d",
+      "birthday": "3/19/2020",
+      "likes": "dogs"
+    },
+    {
+      "id": "20018039-3fca-4260-95ef-6ba6e0fcf117",
+      "firstName": "Nadya",
+      "lastName": "llinskaya",
+      "team": "afeb21da-98e9-42b4-b29b-12f99bd4eb06",
+      "birthday": "7/9/2020",
+      "likes": "both"
+    },
+    {
+      "id": "4f7cec7d-ff08-4f8c-8a6f-66ac3954edff",
+      "firstName": "Jessica",
+      "lastName": "Elliott",
+      "team": "afeb21da-98e9-42b4-b29b-12f99bd4eb06",
+      "birthday": "2/4/2020",
+      "likes": "both"
+    },
+    {
+      "id": "ea16ee90-d331-4a3f-a497-1cd12c5af389",
+      "firstName": "Martin",
+      "lastName": "Balke",
+      "team": "afeb21da-98e9-42b4-b29b-12f99bd4eb06",
+      "birthday": "06/12/2020",
+      "likes": "dogs"
+    },
+    {
+      "id": "f7b08b8b-478c-42a3-8f74-941868e2987b",
+      "firstName": "Morgan",
+      "lastName": "T Shaw",
+      "team": "1df42811-3cc4-43e2-ba58-7ff9bdf99d2d",
+      "birthday": "08/3/2020",
+      "likes": "dogs"
+    },
+    {
+      "id": "7c09260e-79d0-4cf6-a810-9657b6566174",
+      "firstName": "Anna",
+      "lastName": "Li",
+      "team": "cefeb171-adba-4604-9e8c-a00aefbb9053",
+      "birthday": "05/10/2020"
+    },
+    {
+      "id": "7fa20809-6b84-48ea-87b6-5e406885c826",
+      "firstName": "James",
+      "lastName": "Dunn",
+      "team": "cefeb171-adba-4604-9e8c-a00aefbb9053",
+      "birthday": "09/4/2020"
+    },
+    {
+      "firstName": "Sarah",
+      "lastName": "Smalls",
+      "pets": [
+        {
+          "name": "Rex"
+        },
+        {
+          "name": "Tbone"
+        }
+      ],
+      "id": "Or_pPQo"
+    },
+    {
+      "firstName": "Sarah",
+      "lastName": "Smalls",
+      "pets": [
+        {
+          "name": "Rex"
+        },
+        {
+          "name": "Tbone"
+        }
+      ],
+      "id": "hAQCnf5"
+    },
+    {
+      "firstName": "Emmanda",
+      "lastName": "Dula",
+      "birthday": "05/30/2018",
+      "likes": "dog",
+      "team": "Green Buffalo",
+      "id": "vqMSpPa"
+    }
+  ],
+  "Team": [
+    {
+      "id": "1df42811-3cc4-43e2-ba58-7ff9bdf99d2d",
+      "name": "Green Buffalo",
+      "color": "green"
+    },
+    {
+      "id": "cefeb171-adba-4604-9e8c-a00aefbb9053",
+      "name": "Red Heron",
+      "color": "red"
+    },
+    {
+      "id": "afeb21da-98e9-42b4-b29b-12f99bd4eb06",
+      "name": "Blue Otter",
+      "color": "blue"
+    }
+  ]
+}
